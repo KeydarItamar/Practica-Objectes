@@ -57,7 +57,7 @@ function afegirCicle(){
     }else{
         //Editar cicle
         editarCicle(idx);
-    }
+        }
     
     //Actualitzem el selector
     actualitzarSelector();
